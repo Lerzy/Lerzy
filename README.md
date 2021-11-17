@@ -1,7 +1,7 @@
 About me
 
 - 🐍 Python beginner
-- 🤖 Mostly coding discord bots
+- 🤖 Mostly coding discord bots or some small projects
 
 
 
